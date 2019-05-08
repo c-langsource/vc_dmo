@@ -1,0 +1,3 @@
+﻿  main.c
+d:\vc\cproject\domainorintedprogram\main.c(59): warning C4028: 形参 1 与声明不同
+  domainOrintedProgram.vcxproj -> D:\vc\cproject\Debug\domainOrintedProgram.exe

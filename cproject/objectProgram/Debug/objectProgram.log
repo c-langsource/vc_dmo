@@ -1,0 +1,6 @@
+﻿  main.c
+  main2.c
+d:\vc\cproject\objectprogram\main2.c(53): warning C4028: 形参 1 与声明不同
+d:\vc\cproject\objectprogram\main2.c(54): warning C4028: 形参 1 与声明不同
+  正在生成代码...
+  objectProgram.vcxproj -> D:\vc\cproject\Debug\objectProgram.exe
